@@ -3,7 +3,8 @@
 </div>  
   
 
-<h1 align="center">Hi 👋, I'm Nitin saini,Full-stack web developer,& CS Engineer</h1>
+<h1 align="center">Hi 👋, I'm Nitin saini</h1>
+<h3 align="center">A passionate Full-stack web developer,& CS Engineer</h3>
   
 
 - **🔭 I’m student 👨‍🏫**  
@@ -20,6 +21,14 @@
 
 <br/>  
 
+## Connect with me  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ nitin-saini-b08530186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ nitin-saini-b08530186" height="30" width="40" /></a>
+<a href="https://instagram.com/nitinsaini_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitinsaini_7" height="30" width="40" /></a>
+</p> 
+
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -60,18 +69,8 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
 
-
-## Connect with me  
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ nitin-saini-b08530186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ nitin-saini-b08530186" height="30" width="40" /></a>
-<a href="https://instagram.com/nitinsaini_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitinsaini_7" height="30" width="40" /></a>
-</p> 
-  
-
-<br/>  
 
 
 ## Github Stats  
