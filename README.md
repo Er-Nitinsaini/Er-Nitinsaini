@@ -3,7 +3,7 @@
 </div>  
   
 
-### **<div align="center">I'm Nitin saini , Full-stack web developer ,& CS Engineer</div>**  
+<h1 align="center">Hi 👋, I'm Nitin saini,Full-stack web developer,& CS Engineer</h1>
   
 
 - **🔭 I’m student 👨‍🏫**  
@@ -102,4 +102,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
