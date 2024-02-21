@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif" align="center" style="width: 20%; height:20%" />
+<img src="https://cdn.dribbble.com/users/1138853/screenshots/4834993/06_08_gif.gif" align="center" style="width: 50%; height:30%; border-radius:25px;" />
 </div>  
   
 
-### **<div align="center">I'm Nitin saini , Full-stack web developer ,& CS Engineer</div>**  
+<div align="center" style="font-size:25px; font-weight: bold;">I'm Nitin saini , Full-stack web developer ,& CS Engineer</div> 
   
 
 - **🔭 I’m student 👨‍🏫**  
