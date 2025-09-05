@@ -13,7 +13,7 @@
 - **🌱 I’m currently learning**  
   
 
-- **❓ Ask me about anything related to MERN stack and related technologies**  
+- **❓ Ask me about anything related to Backend technologies**  
   
 
 - **⚡ Fun fact: I use keyboard over mouse 🖱**  
