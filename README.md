@@ -4,7 +4,7 @@
   
 
 <h1 align="center">Hi 👋, I'm Nitin saini</h1>
-<h3 align="center">A passionate Full-stack web developer,& CS Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
   
 
 - **🔭 I’m student 👨‍🏫**  
