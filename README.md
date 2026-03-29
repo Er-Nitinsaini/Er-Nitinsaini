@@ -1,55 +1,62 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:00ff88&height=200&section=header&text=NITIN%20SAINI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Architect&descAlignY=60&descSize=18&animation=fadeIn" />
+<!-- ANIMATED WAVE HEADER — cyan→purple→green matching HTML -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:00ff88&height=220&section=header&text=NITIN%20SAINI&fontSize=62&fontColor=ffffff&fontAlignY=40&fontFamily=Orbitron&desc=⚙️%20Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20Chandigarh%2C%20IN&descAlignY=62&descSize=16&animation=fadeIn" />
 
-<!-- TYPING ANIMATION -->
+<!-- GLITCH TYPING ANIMATION — Orbitron font, cyan color -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Architect+%E2%9A%99%EF%B8%8F;Node.js+Enthusiast+%F0%9F%9F%A2;Problem+Solver+%F0%9F%A7%A0;Keyboard+Over+Mouse+%E2%8C%A8%EF%B8%8F;Open+Source+Believer+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Backend+Architect+%E2%9A%99%EF%B8%8F;Node.js+Enthusiast+%F0%9F%9F%A2;Problem+Solver+%F0%9F%A7%A0;Keyboard+Over+Mouse+%E2%8C%A8%EF%B8%8F;Open+Source+Believer+%F0%9F%8C%90;Always+Building+Something+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=Er-Nitinsaini&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge" />
+<!-- BADGES ROW — matching the hero tag pills from HTML -->
+![Profile Views](https://komarev.com/ghpvc/?username=Er-Nitinsaini&label=PROFILE+VIEWS&color=00f5ff&style=for-the-badge)
 &nbsp;
-<img src="https://img.shields.io/github/followers/Er-Nitinsaini?label=FOLLOWERS&style=for-the-badge&color=bf00ff&labelColor=0a0a1f" />
+![Followers](https://img.shields.io/github/followers/Er-Nitinsaini?label=FOLLOWERS&style=for-the-badge&color=bf00ff&labelColor=0a0a1f)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-BUILDING-00ff88?style=for-the-badge&labelColor=0a0a1f)
 
 </div>
 
 ---
 
-<!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; `< About Me />`
+<!-- ABOUT SECTION — matches the about-card with TypeScript block -->
+## `// About`
 
 ```typescript
-const nitin = {
+const nitin: Developer = {
   name        : "Nitin Saini",
-  role        : "Software Engineer & CS Student",
+  role        : ["Software Engineer", "CS Student"],
   location    : "Chandigarh, India 🇮🇳",
-  askMeAbout  : ["Backend APIs", "Node.js", "Databases", "System Design"],
-  currentlyOn : "Learning & Building cool stuff 🚀",
-  funFact     : "I use keyboard over mouse — shortcuts are life ⌨️",
-  status      : "Always open to collaborating on interesting projects!",
+
+  status      : "🔭 Student & Software Engineer",
+  learning    : "🌱 Constantly building & evolving",
+  askMeAbout  : ["Backend APIs", "Node.js", "MongoDB", "System Design"],
+  funFact     : "⚡ I use keyboard over mouse — shortcuts are life!",
+
+  openTo      : "Always open to collaborating on cool projects 🚀",
 };
 ```
 
 <br/>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL CONNECT BUTTONS — matches connect-btn section -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-saini-b08530186)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinsaini_7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Er-Nitinsaini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitin-saini-b08530186)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nitinsaini_7)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Er-Nitinsaini)
 
 </div>
 
 ---
 
-## ⚡ `< Tech Stack />`
+<!-- TECH STACK — matches skill-category cards (frontend/backend/tools) -->
+## `// Tech Stack`
 
-<!-- FRONTEND -->
 ### 🎨 Frontend
 <div align="center">
 
@@ -59,10 +66,10 @@ const nitin = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 </div>
 
-<!-- BACKEND -->
 ### ⚙️ Backend
 <div align="center">
 
@@ -74,7 +81,6 @@ const nitin = {
 
 </div>
 
-<!-- DATABASE -->
 ### 🗄️ Databases
 <div align="center">
 
@@ -83,37 +89,58 @@ const nitin = {
 
 </div>
 
-<!-- TOOLS -->
-### 🛠️ Tools & DevOps
+### 🛠️ Tools
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 `< GitHub Stats />`
+<!-- SKILL ICONS + LANGUAGE STATS — closest to the animated skill bars -->
+## `// Skill Levels`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Er-Nitinsaini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&icon_color=bf00ff&text_color=c0d4e8&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Nitinsaini&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=00f5ff&ring=bf00ff&fire=00ff88&currStreakLabel=00f5ff&sideLabels=c0d4e8&dates=c0d4e8" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,nodejs,python,java,php,c,mongodb,mysql,git,vscode&theme=dark&perline=8" />
 
 <br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Nitinsaini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&text_color=c0d4e8&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Nitinsaini&layout=donut&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&text_color=c0d4e8&langs_count=8&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Er-Nitinsaini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050510&title_color=00f5ff&icon_color=bf00ff&text_color=c0d4e8&count_private=true&border_radius=12" />
 
 </div>
 
 ---
 
-## 🏆 `< Achievements />`
+<!-- STATS CARDS — matches the 4 stat cards from HTML -->
+## `// Stats`
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/COMMITS-500%2B-00f5ff?style=for-the-badge&labelColor=050510)
+&nbsp;
+![Repos](https://img.shields.io/badge/REPOSITORIES-20%2B-bf00ff?style=for-the-badge&labelColor=050510)
+&nbsp;
+![Skills](https://img.shields.io/badge/TECH_SKILLS-15%2B-00ff88?style=for-the-badge&labelColor=050510)
+&nbsp;
+![Passion](https://img.shields.io/badge/PASSIONATE-100%25-ff4466?style=for-the-badge&labelColor=050510)
+
+<br/><br/>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Nitinsaini&theme=tokyonight&hide_border=true&background=050510&stroke=00f5ff&ring=bf00ff&fire=00ff88&currStreakLabel=00f5ff&sideLabels=c0d4e8&dates=c0d4e8&border_radius=12" />
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+## `// Achievements`
 
 <div align="center">
 
@@ -123,31 +150,51 @@ const nitin = {
 
 ---
 
-## 🐍 `< Contribution Snake />`
+<!-- ACTIVITY GRAPH -->
+## `// Contribution Graph`
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Nitinsaini&bg_color=050510&color=00f5ff&line=bf00ff&point=00ff88&area=true&area_color=00f5ff20&hide_border=true&custom_title=Nitin's%20Contribution%20Graph&radius=12" />
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+## `// Contribution Snake`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Er-Nitinsaini/Er-Nitinsaini/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Er-Nitinsaini/Er-Nitinsaini/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Er-Nitinsaini/Er-Nitinsaini/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Er-Nitinsaini/Er-Nitinsaini/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
-## 📈 `< Activity Graph />`
+<!-- MINI GAME SECTION -->
+## `// Mini Game — Code Invaders 🎮`
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Nitinsaini&bg_color=0d0d1a&color=00f5ff&line=bf00ff&point=00ff88&area=true&area_color=00f5ff&hide_border=true&custom_title=Nitin's%20Contribution%20Graph" />
+> 🎮 **The full playable CODE INVADERS game** (shoot the bugs 🐛🦟🪲) lives on your profile page — GitHub README can't run JavaScript games, but you can host it via GitHub Pages!
+
+[![Play Code Invaders](https://img.shields.io/badge/🎮%20PLAY-CODE%20INVADERS-00ff88?style=for-the-badge&labelColor=050510)](https://er-nitinsaini.github.io)
+
+```
+ ← → to move  |  SPACE to shoot  |  Don't let the bugs reach your codebase!
+```
 
 </div>
 
 ---
 
-## 💡 `< Random Dev Quote />`
+<!-- QUOTE -->
+## `// Dev Wisdom`
 
 <div align="center">
 
@@ -160,8 +207,12 @@ const nitin = {
 <!-- FOOTER WAVE -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf00ff,100:00ff88&height=120&section=footer&animation=fadeIn" />
+<br/>
 
-**`< Built with 💙 by Nitin Saini — Every commit matters />`**
+**`"Every single contribution matters." — Nitin Saini`**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:bf00ff,100:00f5ff&height=120&section=footer&animation=fadeIn" />
 
 </div>
