@@ -7,10 +7,10 @@
 <h3 align="center">A passionate Software Engineer</h3>
   
 
-- **🔭 I’m student 👨‍🏫**  
+- **🔭 I’m student and Software engineer 👨‍🏫**  
   
 
-- **🌱 I’m currently learning**  
+- **🌱 I’m currently learning and devlope**  
   
 
 - **❓ Ask me about anything related to Backend technologies**  
