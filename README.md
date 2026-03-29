@@ -139,12 +139,21 @@ const nitin: Developer = {
 
 ---
 
-<!-- TROPHIES -->
 ## `// Achievements`
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Er-Nitinsaini&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+![Commits](https://img.shields.io/badge/🏆_Commits-500%2B-00f5ff?style=for-the-badge&labelColor=0d0d1a)
+&nbsp;
+![Stars](https://img.shields.io/badge/⭐_Stars_Earned-10%2B-bf00ff?style=for-the-badge&labelColor=0d0d1a)
+&nbsp;
+![PRs](https://img.shields.io/badge/🔀_Pull_Requests-Active-00ff88?style=for-the-badge&labelColor=0d0d1a)
+&nbsp;
+![Issues](https://img.shields.io/badge/🐛_Bug_Squasher-Pro-ff4466?style=for-the-badge&labelColor=0d0d1a)
+
+<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Er-Nitinsaini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f5ff&icon_color=bf00ff&text_color=c0d4e8&count_private=true&include_all_commits=true&border_radius=12)
 
 </div>
 
