@@ -190,13 +190,20 @@ const nitin: Developer = {
 
 <div align="center">
 
-> 🎮 **The full playable CODE INVADERS game** (shoot the bugs 🐛🦟🪲) lives on your profile page — GitHub README can't run JavaScript games, but you can host it via GitHub Pages!
+<a href="https://er-nitinsaini.github.io/Er-Nitinsaini/game.html">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,100:0a0a2e&height=80&text=🎮%20PLAY%20CODE%20INVADERS&fontSize=28&fontColor=00ff88&desc=Shoot%20the%20bugs%20before%20they%20reach%20your%20codebase!&descSize=13&descAlignY=75&fontAlignY=40&animation=fadeIn" width="100%"/>
+</a>
 
-[![Play Code Invaders](https://img.shields.io/badge/🎮%20PLAY-CODE%20INVADERS-00ff88?style=for-the-badge&labelColor=050510)](https://er-nitinsaini.github.io)
+<br/>
 
-```
- ← → to move  |  SPACE to shoot  |  Don't let the bugs reach your codebase!
-```
+| Control | Action |
+|:---:|:---:|
+| `← →` / `A D` | Move spaceship |
+| `SPACE` | Shoot laser |
+| `P` | Pause game |
+| 📱 Touch | D-pad on mobile |
+
+> 🕹️ **[Click here to play →](https://er-nitinsaini.github.io/Er-Nitinsaini/game.html)**
 
 </div>
 
